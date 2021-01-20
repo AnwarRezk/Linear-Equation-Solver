@@ -4,5 +4,6 @@ Direct methods such as :-
 * Gauss Elimination
 * Gauss Jordan Elimination
 * LU Decomposition
+-
 and Iterative methods such as :-
 * Gauss Seidel
